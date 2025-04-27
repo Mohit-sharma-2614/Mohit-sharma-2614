@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ## 👨‍💻 About Me:
 
 - 🔭 I’m currently working on **Android Development** using **Kotlin** and **Jetpack Compose**.
-- 🌱 I’m diving deeper into **Machine Learning** and exploring **Computer Vision** projects.
 - 🎯 My mission is to **build apps** that actually solve real-world problems and improve daily life.
 - 🚀 I'm fascinated by **space exploration** and often dream about contributing to space tech innovations.
 - 🛠️ I'm currently mastering **DSA with Java** for a rock-solid problem-solving foundation.
@@ -55,7 +54,7 @@ Here are some ideas to get you started:
 ## 📚 Currently Exploring:
 
 - **Advanced Jetpack Compose**: Learning how to build better and beautiful Android UIs.
-- **Machine Learning (ML)**: Especially focusing on **Supervised Learning** and **Computer Vision** basics.
+- **Spring Boot**: Especially focusing on APIs basics.
 - **Fine-tuning LLMs**: Want to fine-tune large language models like **LLaMA** using **Python**.
 
 ---
@@ -63,21 +62,19 @@ Here are some ideas to get you started:
 ## 🌟 Fun Facts About Me:
 
 - 🌌 I can talk about **stars, galaxies, and space exploration** for hours (literally no stop 🚀✨).
-- 🍽️ I love cooking Gulab Jamuns! (Self-declared Gulab Jamun expert 😋)
-- 🎮 Thinking about opening a gaming YouTube channel too! (maybe named "**Syntax Error**" 😅)
-- 🎯 Sometimes I get lazy but... we bounce back stronger than ever 🔥 (no giving up!)
+- 🎮 I am a pro gamer.
 
 ---
 
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-sharma-2614&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-sharma-2614&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=tokyo-night" width="95%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohit-sharma-2614&theme=tokyo-night" width="95%"/>
 </p>
 
 ---
@@ -85,10 +82,10 @@ Here are some ideas to get you started:
 ## 🤝 Let's Connect:
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/mohit-the-developer/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="blank">
+  <a href="mailto:your-mohitsharma921624@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- Add more links if needed -->
