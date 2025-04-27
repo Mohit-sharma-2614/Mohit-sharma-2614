@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohit-sharma-2614&theme=tokyo-night" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-sharma-2614&theme=tokyo-night" width="95%"/>
 </p>
 
 ---
