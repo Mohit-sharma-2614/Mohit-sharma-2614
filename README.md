@@ -77,8 +77,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-sharma-2614&theme=tokyo-night" width="95%"/>
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohit-sharma-2614&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohit's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-sharma-2614&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p align="center">
+  <a href="https://github.com/Mohit-sharma-2614">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-sharma-2614&layout=compact&theme=buefy&hide_border=true" />
+  </a>
+</p>
 
 ---
 
