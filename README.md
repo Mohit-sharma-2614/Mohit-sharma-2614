@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">Turning ideas into real-world solutions 🚀 | Android Enthusiast 📱 | Space Dreamer 🌌</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=900&lines=Android+Developer+%7C+ML+Learner+%7C+Future+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&center=true&vCenter=true&width=900&lines=Android+Developer+%7C+Backend+Developer+%7C+Future+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
