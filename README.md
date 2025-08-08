@@ -102,4 +102,4 @@ Here are some ideas to get you started:
 
 > _"Stars don't disappear. They just wait for you to look up."_
 >
-> — Keep shining, coder! 🚀✨
+> — Keep shining! 🚀✨
