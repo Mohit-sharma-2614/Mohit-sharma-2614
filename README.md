@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 
 ---
 
-## 👨‍💻 About Me:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Android Development** using **Kotlin** and **Jetpack Compose**.
-- 🎯 My mission is to **build apps** that actually solve real-world problems and improve daily life.
-- 🚀 I'm fascinated by **space exploration** and often dream about contributing to space tech innovations.
-- 🛠️ I'm currently mastering **DSA with Java** for a rock-solid problem-solving foundation.
-- 🎯 My goal: **Become a developer who builds solutions for the community and pushes the world forward!**
+- 🔭 I’m currently working on **Android Development** using **Kotlin** and **Jetpack Compose**, with backend development experience in **Spring Boot** and **Spring Security**.  
+- 🎯 Skilled in building **efficient, scalable, and secure applications** that focus on solving real-world problems and enhancing user experience.  
+- 📚 Continuously learning **modern Android frameworks**, improving **problem-solving skills** with DSA in Java, and exploring **AI applications** in practical scenarios.  
+- 🚀 Fascinated by **space exploration** and inspired by innovations that push technology forward.  
+- 🎮 Outside of work, I enjoy writing **tech blogs**, gaming, and reading books for personal growth.  
+- 🌟 Goal: Become a developer who creates impactful solutions for the community and contributes to innovative projects.  
 
 ---
 
